@@ -23,9 +23,10 @@ Being able to easily change the FPS Limit of eFootball to the desired limit in a
 <a href="https://www.buymeacoffee.com/cadilillian"><img src="https://user-images.githubusercontent.com/121774761/222795857-eb241eb3-7563-4871-9344-48183b35730e.png" width="137" height="39"></a>   <a href='https://ko-fi.com/cadilillian' target='_blank'><img style='border:0px;height:39px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' width="153" height="39" alt='Buy Me a Coffee at ko-fi.com' /></a> 
 * [Feedback :writing_hand:](https://evoweb.uk/forums/efootball-2022.343)
 * **Create a review** :smiley:
+* **Star this repository** ⭐
 
 ## Download and Setup
-1. Download latest version: [**eFootball FPS Limit Patcher 1.10**](https://www.github.com/CadiLillian/eFootball-FPS-Limit-Patcher/releases/download/1.10/eFootball-FPS-Limit-Patcher.exe)
+1. Download latest version: [**eFootball FPS Limit Patcher 1.11**](https://www.github.com/CadiLillian/eFootball-FPS-Limit-Patcher/releases/download/1.11/eFootball-FPS-Limit-Patcher.exe)
 2. Copy/Move to the executable directory of your eFootball Installation
 3. Run the Patcher
 
