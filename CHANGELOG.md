@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.10](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/tag/2.10) (2023-12-27)
+
+## Features
+- Added Offline Optimization for MS Store eFootball Version 3.2.0
+- Added popup window at startup for eFootball versions without offline/online patching optimization
+
+![FeaturePreviewB](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/assets/121774761/ea36167b-c37c-4c2d-89d1-7be00dd13432)
+
+## Bug Fixes
+**Closed issues:**
+- version 2.02 doesn't play with eF 3.2.0 MS store version [\#4](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/issues/4)
+-----
+- Fixed the cause of the issue where no window would appear (problem mentioned in [\#1](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/issues/1) and [\#4](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/issues/4))
+- Fixed all startup analysis functions for eFootball versions without offline/online patching optimization
+
+## Other Improvements
+- Improved startup analysis speed for eFootball versions without offline/online patching optimization
+- Further performance enhancements
+
 ## [2.02](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/tag/2.02) (2023-12-07)
 
 - Added Offline Optimization for Steam eFootball Version 3.2.0
