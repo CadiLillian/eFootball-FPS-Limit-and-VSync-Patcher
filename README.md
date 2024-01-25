@@ -28,7 +28,7 @@ Being able to easily change the FPS Limit of eFootball to the desired limit and 
 * **Create a review** :smiley:
 
 ## Download and Setup
-1. Download latest version: [**eFootball FPS Limit and VSync Patcher 2.10**](https://www.github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/download/2.10/eFootball-FPS-VSync-Patcher.exe)
+1. Download latest version: [**eFootball FPS Limit and VSync Patcher 2.11**](https://www.github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/download/2.11/eFootball-FPS-VSync-Patcher.exe)
 2. Copy/Move to the executable directory of your eFootball Installation
 3. Run the Patcher
 
