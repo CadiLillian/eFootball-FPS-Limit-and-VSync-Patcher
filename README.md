@@ -40,7 +40,7 @@ Yes! As long as KONAMI doesn’t change the way the FPS Limit is being handled i
 
 <br>
 
-**Should disable VSync?**
+**Should I disable VSync?**
 
 Yes, if your monitor supports AMD FreeSync or Nvidia G-Sync, it is generally recommended to enable these features and disable the in-game VSync option. 
 
@@ -62,7 +62,7 @@ To check if a new version of the patcher is available and for optimization of th
 
 **What is optimization in this context?**
 
-The total time it takes to patch and start the Patcher is being reduced massively. Depending on multiple factors e.g. the PC’s Hardware Specs -> Performance, the time being saved is ca. 50x up to 10000x times faster.
+The total time it takes to patch and start the Patcher is being reduced massively. Depending on multiple factors e.g. the PC’s Hardware Specs → Performance, the time being saved is ca. 50x up to 10000x times faster.
 
 <br>
 
