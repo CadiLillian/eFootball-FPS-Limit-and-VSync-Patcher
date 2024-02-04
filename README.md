@@ -1,8 +1,8 @@
 <h1 align="center">eFootball FPS Limit and VSync Patcher</h1>
 
 <p align="center">
-	<a href="https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases"><img src="https://img.shields.io/github/v/release/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher?style=flat-square" /></a>
-	<a href="https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases"><img src="https://img.shields.io/github/downloads/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/total?style=flat-square" /></a>
+	<a href="https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases"><img src="https://img.shields.io/github/v/release/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher?style=for-the-badge" /></a>
+	<a href="https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases"><img src="https://img.shields.io/github/downloads/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/total?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -37,6 +37,20 @@ Being able to easily change the FPS Limit of eFootball to the desired limit and 
 **Does this Patcher work with future versions of eFootball?**
 
 Yes! As long as KONAMI doesn’t change the way the FPS Limit is being handled in Unreal Engine, it will work with all future eFootball versions.
+
+<br>
+
+**Should disable VSync?**
+
+Yes, if your monitor supports AMD FreeSync or Nvidia G-Sync, it is generally recommended to enable these features and disable the in-game VSync option. 
+
+AMD FreeSync and Nvidia G-Sync are technologies that adapt the refresh rate of your monitor to match the frame rate of your game. This can result in a smoother gaming experience without screen tearing, stuttering, or sharp frame rate drops. 
+
+On the other hand, VSync, or Vertical Sync, synchronizes the refresh rate of your monitor with the frame rate of your GPU to prevent screen tearing. However, it can cause input lag and stuttering if the frame rate drops below the monitor's refresh rate. 
+
+Disabling VSync when using FreeSync or G-Sync is recommended to avoid potential conflicts between these technologies. Both FreeSync and G-Sync are designed to do what VSync does but in a more efficient way. Having both enabled might lead to issues like increased input lag.
+
+Please note that to use FreeSync or G-Sync, you need a compatible GPU and monitor. It's often recommended to cap your frame rate slightly below the upper end of the FreeSync or G-Sync range for the best results.
 
 <br>
 
