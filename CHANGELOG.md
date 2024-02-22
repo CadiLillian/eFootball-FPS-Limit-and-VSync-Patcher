@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.13](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/tag/2.13) (2024-02-22)
+
+- Added Offline Optimization for Steam and MS Store eFootball Version 3.3.1
+
 ## [2.12](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/tag/2.12) (2024-01-25)
 
 - Added Offline Optimization for MS Store eFootball Version 3.3.0
