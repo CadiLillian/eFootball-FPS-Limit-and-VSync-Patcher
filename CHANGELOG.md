@@ -1,5 +1,32 @@
 # Changelog
 
+## [2.30](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/tag/2.30) (2024-12-25)
+
+## Major Improvements
+- Executable Analysis Features Rewritten:
+All Executable Analysis features have been completely rewritten from the ground up.<br><br>This redesign brings significantly faster load times,
+on average at least 93% faster,
+full support for all MS Store eFootball versions,
+and greatly enhanced compatibility for all future eFootball versions (Steam and MS Store).
+
+## Features
+- Added Patching Support for Steam and MS Store eFootball Version 0.9.0
+- Added Patching Support for Steam and MS Store eFootball Version 0.9.1
+- Added Offline Optimization for Steam eFootball Version 0.9.0
+- Added Offline Optimization for Steam eFootball Version 0.9.1<br><br>
+- Added Offline Optimization for Steam and MS Store eFootball Version 4.2.0
+- Added Offline Optimization for Steam and MS Store eFootball Version 4.1.0
+- Added Offline Optimization for Steam eFootball Version 4.0.1
+
+## Bug Fixes
+- Fixed the issue where no window would appear.
+This was exclusive to certain MS Store eFootball versions 4.0.0 to 4.2.0.
+- Fixed never-ending executable analysis.
+This was exclusive to certain MS Store eFootball versions 4.0.0 to 4.2.0.
+
+## Other Improvements
+- Further performance enhancements
+
 ## [2.21](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/tag/2.21) (2024-09-12)
 
 - Added Offline Optimization for Steam and MS Store eFootball Version 4.0.0
