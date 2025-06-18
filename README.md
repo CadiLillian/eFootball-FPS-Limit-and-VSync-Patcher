@@ -36,7 +36,7 @@ Being able to easily change the FPS Limit of eFootball to the desired limit and 
 
 **Does this Patcher work with future versions of eFootball?**
 
-Yes! As long as KONAMI doesn’t change the way the FPS Limit is being handled in Unreal Engine, it will work with all future eFootball versions.
+Yes! Provided KONAMI does not change the way the FPS Limit is handled in eFootball.
 
 <br>
 
@@ -76,4 +76,4 @@ Online optimization requires an Internet connection but not the latest version o
 
 **I started the Patcher in the directory of my eFootball MS Store executable, why does the Patcher not work?**
 
-This patcher supports both PC Versions, the Steam and MS Store Version. However, most MS Store/Xbox Apps and Games have restricted file/folder access (encrypted file system protection). In 2021 Microsoft introduced the option to enable mods, unfortunately KONAMI has not adopted this for eFootball. You have to dump the game first to be able to gain file/folder access! I won't provide any assistance to dump the game. Please take a look at the [UWPDumper](https://github.com/Wunkolo/UWPDumper)'s GitHub Page. If you have any issues, see if your or a similar problem is listed in the [UWPDumper's Issues](https://github.com/Wunkolo/UWPDumper/issues) Page, if not, create a new "Issue" there.
+This patcher supports both PC Versions, the Steam and MS Store Version. However, most MS Store/Xbox Apps and Games have restricted file/folder access (encrypted file system protection). In 2021 Microsoft introduced the option to enable mods, unfortunately KONAMI has not adopted this for eFootball. You have to dump the game first to be able to gain file/folder access! I won't provide any assistance to dump the game. Please take a look at the [UWPEXEDumper](https://github.com/ImNotSimon/UWPEXEDumper/releases) GitHub Page. Alternatively, if you want to dump all game files, please take a look at the [UWPDumper](https://github.com/Wunkolo/UWPDumper) GitHub Page if you want to dump all game files. If you encounter any issues, check if your issue or a similar one is listed on the respective [UWPEXEDumper's Issues](https://github.com/ImNotSimon/UWPEXEDumper/issues) or [UWPDumper's Issues](https://github.com/Wunkolo/UWPDumper/issues) Page, if not, create a new "Issue" there.
