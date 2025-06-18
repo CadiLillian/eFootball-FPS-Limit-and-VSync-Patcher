@@ -1,5 +1,34 @@
 # Changelog
 
+## [2.40](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/tag/2.40) (2025-06-18)
+
+## Major Improvements
+- Executable Analysis Features Rewritten:  
+All Executable Analysis features have been rewritten from the ground up - again - delivering the performance improvements referenced in last version’s [release notes](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/blob/main/CHANGELOG.md#230-2024-12-25), this time supported by extensive testing to ensure performance and reliability.<br><br>In addition to **significantly faster load times**, this update addresses a long-standing issue:   
+Without offline or online optimization, previous versions of the executable analysis features could result in a seemingly endless executable analysis once the patcher is launched.  
+This was especially common with the MS Store eFootball versions, as optimization requires someone to dump and share the executable file ([here](https://evoweb.uk/threads/95503/)).
+
+- Patching Support for **all eFootball versions** (Steam and MS Store)!  
+Provided KONAMI does not change the way the FPS Limit is handled in eFootball, this will apply to all future eFootball versions.
+
+## Features
+- Added Patching Support for all MS Store eFootball Versions!<br><br>
+- Added Offline Optimization for Steam eFootball Version 4.5.0
+- Added Offline Optimization for Steam and MS Store eFootball Version 4.4.0
+- Added Offline Optimization for Steam eFootball Version 4.3.0
+- Added Offline Optimization for Steam and MS Store eFootball Version 4.2.1
+
+## Bug Fixes
+**Closed issues:**
+- Not working on 4.4 Patch MS Store [\#11](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/issues/11)
+- Compatibility [\#10](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/issues/10)
+
+## Other Improvements
+- Improved font quality
+- The last update ([2.30](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/tag/2.30)) silently introduced first preparations for a potential final release version.  
+  This version ([2.40](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/tag/2.40)) further advances these preparations, with the aim of being fully ready for a final release.
+- Further performance enhancements
+
 ## [2.30](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher/releases/tag/2.30) (2024-12-25)
 
 ## Major Improvements
